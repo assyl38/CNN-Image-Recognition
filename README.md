@@ -9,13 +9,14 @@ A CNN has: </br>
 - Convolutional layers</br>
 - ReLU layers </br>
 - Pooling layers </br>
-- a Fully connected layer</br>
+- a Fully connected layer </br>
+
 A classic CNN architecture would look something like this: </br>
 <p align='center'>
 <img width="500" height="300" src="https://cdn.discuss.boardinfinity.com/original/2X/1/1f1bf9539699c880b33f978e724f803ef8197f6f.png"> </br>
 <em> CNN architecture </em>
 </p>  
-
+</br>
 In this example we'll build a neural network using the  [CIFAR-10 dataset](https://en.wikipedia.org/wiki/CIFAR-10) .    
 
 # Credits
