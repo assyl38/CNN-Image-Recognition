@@ -17,7 +17,8 @@ A classic CNN architecture would look something like this: </br>
 <em> CNN architecture </em>
 </p>  
 </br>
-In this example we'll build a neural network using the  [CIFAR-10 dataset](https://en.wikipedia.org/wiki/CIFAR-10) .    
+In this example we'll build a neural network using the CIFAR-10 dataset
+
 
 # Credits
 
